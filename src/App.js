@@ -6,6 +6,7 @@ import Layout from "./Pages/Layout"
 //import  "./Pages/Layout.css"
 //import React from 'react'
 //import Service from './Pages/Service'
+
 export default function App() {
   return(  
     <BrowserRouter> 
@@ -17,5 +18,6 @@ export default function App() {
            </Route>
       </Routes>
       </BrowserRouter>
+      
     )
   };

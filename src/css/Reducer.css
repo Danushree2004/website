@@ -1,0 +1,7 @@
+.button
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    padding:20px;
+}

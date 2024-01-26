@@ -1,7 +1,9 @@
 import React from 'react'
-
+import Counter from "./Counter"
+import Reducer from './Reducer'
 export default function About() {
   return (
-    <div>About</div>
+    <div><Counter/>
+    <Reducer/></div>
   )
 }
